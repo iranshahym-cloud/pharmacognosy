@@ -73,6 +73,13 @@
 **<span dir="rtl">( تمام نتایج حاصله را در جالوله ای قرار داده و به کارشناس آزمایشگاه تحویل داده تا نمره نتایج برایتان ثبت گردد در غیر این صورت نمره کار عملی منظور نخواهد شد. )</span>**
 
 **<span dir="rtl">در پایان انجام کار لوله ها را با دقت شسته و در میز مربوط به خودتان که قبلا" تمیز نموده اید قرار دهید .</span>**
+
+**<span dir="rtl">سوال:</span>**
+
+1.  <span dir="rtl">اجزای معرف فهلینگ</span> A <span dir="rtl">و</span> B <span dir="rtl">را بنویسید</span>
+
+2.  <span dir="rtl">واکنش کربوهیدراتها با معرف فهلینگ را بنویسید.</span>
+
 ## ویدیوهای آموزشی و عملی جلسه
 
 <div class="video-card">
@@ -86,11 +93,3 @@
     <iframe src="https://www.aparat.com/video/video/embed/videohash/rycjixv/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
   </div>
 </div>
-
-
-
-**<span dir="rtl">سوال:</span>**
-
-1.  <span dir="rtl">اجزای معرف فهلینگ</span> A <span dir="rtl">و</span> B <span dir="rtl">را بنویسید</span>
-
-2.  <span dir="rtl">واکنش کربوهیدراتها با معرف فهلینگ را بنویسید.</span>
