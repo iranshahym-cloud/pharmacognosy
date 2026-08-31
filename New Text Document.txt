@@ -1,0 +1,9 @@
+cd "D:\Courses\Pharmacognosy lab\New lab manual"
+git init
+git add .
+git commit -m "Pharmacognosy lab manual - initial build"
+git branch -M main
+# Create an empty repo on github.com first, then:
+git remote add origin https://github.com/iranshahym-cloud/pharmacognosy.git
+git push -u origin main
+mkdocs gh-deploy

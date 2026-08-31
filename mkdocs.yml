@@ -1,0 +1,53 @@
+site_name: "راهنمای آزمایشگاه فارماکوگنوزی ۱"
+site_description: "Pharmacognosy Laboratory Manual"
+site_author: "Pharmacognosy Department"
+docs_dir: "docs"
+site_dir: "site"
+
+theme:
+  name: material
+  language: fa
+  direction: rtl
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: حالت تاریک
+    - scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: حالت روشن
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+
+nav:
+  - 'صفحه اصلی': index.md
+  - 'جلسات آزمایشگاه':
+      - 'آیین نامه انضباطی و مقررات آزمایشگاه فارماکوگنوزی': session_01.md
+      - 'کربوهیدرات ها': session_02.md
+      - 'روغن های ثابت، چربی ها، موم ها': session_03.md
+      - 'شناسایی آنتراکینونها': session_04.md
+      - 'گلیکوزیدهای قلبی': session_05.md
+      - 'آلکالوئیدها': session_06.md
