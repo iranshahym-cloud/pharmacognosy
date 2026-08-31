@@ -73,6 +73,20 @@
 **<span dir="rtl">( تمام نتایج حاصله را در جالوله ای قرار داده و به کارشناس آزمایشگاه تحویل داده تا نمره نتایج برایتان ثبت گردد در غیر این صورت نمره کار عملی منظور نخواهد شد. )</span>**
 
 **<span dir="rtl">در پایان انجام کار لوله ها را با دقت شسته و در میز مربوط به خودتان که قبلا" تمیز نموده اید قرار دهید .</span>**
+## ویدیوهای آموزشی و عملی جلسه
+
+<div class="video-card">
+  <div class="video-card-header">
+    <div class="video-card-title">🎬 ویدیو آموزشی: شناسایی کربوهیدرات‌ها</div>
+    <a href="https://www.aparat.com/v/rycjixv" target="_blank" rel="noopener noreferrer" class="aparat-direct-btn">
+      <span>مشاهده و دانلود در آپارات</span> ↗
+    </a>
+  </div>
+  <div class="aparat-container">
+    <iframe src="https://www.aparat.com/video/video/embed/videohash/rycjixv/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+  </div>
+</div>
+
 
 **<span dir="rtl">سوال:</span>**
 
